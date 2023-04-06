@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c7b26401_a6588c4a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 24080
+      },
+      "writtenOn": "2023-04-06T10:10:30Z",
+      "side": 1,
+      "message": "Is there a problem with this, am I doing something wrong? I did a clean install and when trying to compile it fails on the four webview.apk files. They contain three lines of version, checksum \u0026 size details.",
+      "revId": "964e5534e36027031d94718d983e5cec45a41fba",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
