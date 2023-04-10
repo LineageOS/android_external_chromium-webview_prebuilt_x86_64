@@ -16,6 +16,24 @@
       "message": "Is there a problem with this, am I doing something wrong? I did a clean install and when trying to compile it fails on the four webview.apk files. They contain three lines of version, checksum \u0026 size details.",
       "revId": "964e5534e36027031d94718d983e5cec45a41fba",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2e04ebf5_9fa23072",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15173
+      },
+      "writtenOn": "2023-04-10T13:30:20Z",
+      "side": 1,
+      "message": "We moved the webview prebuilts to LFS because they were getting very very large. Make sure you have git-lfs installed and then do this: https://gist.github.com/haggertk/7e5c0373b424c4b80e149cec846294e8",
+      "parentUuid": "c7b26401_a6588c4a",
+      "revId": "964e5534e36027031d94718d983e5cec45a41fba",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
